@@ -7,8 +7,8 @@ import { pathToFileURL } from 'url';
 // ชื่อและนามสกุลของตัวเอง
 // ต้องตรงกับที่ใส่ใน stubs/card.html
 // =====================================================
-const FIRST_NAME = 'จารุวรรณ';
-const LAST_NAME = 'สิงห์ใจ';
+const FIRST_NAME = 'ฐิติวรดา';
+const LAST_NAME = 'นาปัน';
 
 const CARD_PATH = path.resolve(__dirname, '../stubs/card.html');
 
